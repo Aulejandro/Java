@@ -9,6 +9,7 @@ class VolcanoRobot {
         this.temperature=temperature;
         VolcanoRobotCount++;
     }
+
     VolcanoRobot(){
         VolcanoRobotCount++;
     }
